@@ -64,24 +64,6 @@ I’m a second‑year Artificial Intelligence student at the National High Schoo
 
 <a href="https://github.com/Abderrahmane-41" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-41&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- Achievements Header -->
-# Achievements
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-41&show_icons=true&theme=radical&hide_border=false" width="48%" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-41&layout=compact&theme=radical&hide_border=false" width="48%" alt="Languages used" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abderrahmane-41&theme=radical&hide_border=false" width="48%" alt="GitHub Streaks" />
-<br>
-<img src="https://github-contributor-stats.vercel.app/api?username=Abderrahmane-41&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%" alt="Contributor Stats" />
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Abderrahmane-41&theme=radical&no-frame=false&column=4&margin-w=15" width="48%" alt="Trophies" />
-
-<!-- Tech Stack Section -->
-<div style="background:#141321; padding:20px; border-radius:10px; max-width:48%; margin:auto; border:2px solid #d4d6da;">
-
-
 ---
 
 ## 🎯 Interests & Hobbies
