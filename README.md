@@ -53,9 +53,9 @@ I’m a second‑year Artificial Intelligence student at the National High Schoo
 ## 💬 Let’s Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sibachir-abdelbari-tarek-b53958282/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" /></a>
-  <a href="https://github.com/SibachirTarek" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" /></a>
-  <a href="https://twitter.com/tarek_aeb" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/abderrahmane-baatchia/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" /></a>
+  <a href="https://github.com/Abderrahmane-41" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" /></a>
+  <a href="https://instagram.com/abdrhmn.baat" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" alt="X" /></a>
 </p>
 
 ---
