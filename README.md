@@ -81,7 +81,7 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA (Class of 202
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abderrahmane-41&radius=16&theme=radical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" width="740" alt="Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abderrahmane-41&bg_color=20232a&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" width="740" alt="Activity Graph" />
     </td>
   </tr>
 </table>
