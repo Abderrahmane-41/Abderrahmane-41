@@ -1,10 +1,10 @@
 <div align="center">
+  <!-- Top Gradient Header -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=ABDERRAHMANE&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20and%20AI%20Student&descAlignY=55&descSize=20" width="100%"/>
+
 
 <!-- Introduction Header -->
 # 🔥 Hey There, I'm BAATCHIA Abderrahmane!
-
-<!-- Introduction Paragraph -->
-<strong>Software Engineer & AI Student</strong>
 
 <!-- Banner Image -->
 
@@ -125,4 +125,8 @@ Currently pursuing my passion for Artificial Intelligence at ENSIA (Class of 202
 <!-- Profile Views -->
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abderrahmane-41&label=Profile%20Views&color=ee0979&style=for-the-badge" alt="Profile Views" />
+
+  <!-- Bottom Gradient Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+
 </div>
