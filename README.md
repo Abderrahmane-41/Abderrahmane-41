@@ -10,7 +10,7 @@
 
 **AI & Data Science Student | Full-Stack Developer | Innovation Enthusiast**
 
-Currently pursuing my passion for Artificial Intelligence at ENSIA (Class of 2028) while building cutting-edge applications. I'm a second-year student passionate about building real-world solutions with clean, efficient code. I thrive on turning complex challenges into simple, user-friendly applications—and I'm always chasing that next level.
+Currently pursuing my passion for Artificial Intelligence at ENSIA (Class of 2028) while building cutting-edge applications. I'm a third-year student passionate about building real-world solutions with clean, efficient code. I thrive on turning complex challenges into simple, user-friendly applications—and I'm always chasing that next level.
 
 *"Always making the complex simple—and chasing that next level."* - and I absolutely love what I do! 🚀
 
